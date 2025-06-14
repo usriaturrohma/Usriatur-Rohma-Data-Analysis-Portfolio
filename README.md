@@ -1,6 +1,6 @@
 # 📁 Usriatur Rohma – Project Portfolio
 
-Halo! Selamat datang di dokumentasi portofolio proyek saya di bidang **Data Science, Statistika, dan Machine Learning**. Repositori ini menyajikan ringkasan berbagai proyek yang telah saya kerjakan untuk menunjukkan kompetensi teknis dan pemahaman analitis saya dalam berbagai konteks data.
+Hello! Welcome to my project portfolio documentation in the field of **Data Science, Statistics, and Machine Learning**. This repository presents a summary of the various projects I have worked on to demonstrate my technical competence and analytical understanding in various data contexts.
 
 ---
 
