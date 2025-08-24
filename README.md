@@ -1,6 +1,6 @@
 # 📁 Usriatur Rohma – Project Portfolio
 
-Hello! Welcome to my project portfolio documentation in the field of **Data Science, Statistics, and Machine Learning**. This repository presents a summary of the various projects I have worked on to demonstrate my technical competence and analytical understanding in various data contexts.
+Hello! Welcome to my project portfolio documentation in the field of **Data Analyst, Statistics, and Machine Learning**. This repository presents a summary of the various projects I have worked on to demonstrate my technical competence and analytical understanding in various data contexts.
 
 ---
 
