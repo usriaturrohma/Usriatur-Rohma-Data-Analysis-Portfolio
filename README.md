@@ -4,19 +4,19 @@ Hello! Welcome to my project portfolio documentation in the field of **Data Scie
 
 ---
 
-## 📚 Daftar Isi
+## 📚 Table of Contents
 
 * [Data Engineering](#-data-engineering)
 * [Python: Data Analysis & Machine Learning](#-python-data-analysis--machine-learning)
 * [SQL](#-sql)
 * [Dashboard](#-dashboard)
-* [Kursus & Sertifikasi](#-kursus--sertifikasi)
+* [Courses & Certifications](#-kursus--sertifikasi)
 
 ---
 
 <!-- ## 📂 Data Engineering
 
-| Project                                                                                                                                      | Mitra | Tools                                                        | Deskripsi                                                                                                                                                                                                                                                   |
+| Project                                                                                                                                      | Dataset Source | Tools                                                        | Deskripsi                                                                                                                                                                                                                                                   |
 | -------------------------------------------------------------------------------------------------------------------------------------------- | ----- | ------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [🚨 Fraud Detection for Online Transaction Pipeline](https://github.com/faizns/final-project-fraud-transaction-pipeline/blob/main/readme.md) | IYKRA | Python, GCP (BigQuery, Storage), Spark, Kafka, Looker Studio | Membangun pipeline ETL end-to-end untuk data transaksi pembayaran online. Menggabungkan pemrosesan batch dan streaming, transformasi data menggunakan Spark, model dimensional data warehouse, sistem notifikasi fraud, dan dashboard pelaporan interaktif. |
 
@@ -24,7 +24,7 @@ Hello! Welcome to my project portfolio documentation in the field of **Data Scie
 
 ## 📂 Python: Data Analysis & Machine Learning
 
-| Project                                                                                                                                           | Mitra                       | Area             | Library                         | Deskripsi                                                                                                                                                                  |
+| Project                                                                                                                                           | Dataset Source                       | Area             | Library                         | Description                                                                                                                                                                  |
 | ------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------- | ---------------- | ------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [🏡 House Price Prediction](https://github.com/usriaturrohma/House-Price-Prediction)                                                | Kaggle Competition | EDA, Regression Modelling | pandas, scikit-learn, seaborn, numpy, matplotlib | Accurately predicting house prices is a classic regression problem in data science. This project demonstrates the application of exploratory data analysis, feature engineering, and regression modeling to predict housing prices using the Ames Housing dataset. |
 <!--| [☎️ Telco Customer Churn](https://github.com/faizns/Telco-Customers-Churn)                                                                        | FGA x Binar Academy         | EDA, Klasifikasi | Random Forest, SHAP             | Mengidentifikasi pelanggan yang berpotensi berhenti berlangganan. Fitur biaya panggilan menjadi indikator paling berpengaruh. Akurasi model mencapai 89%.                  |
@@ -39,7 +39,7 @@ Hello! Welcome to my project portfolio documentation in the field of **Data Scie
 
 ## 📂 SQL
 
-| Project                                                                                                                    | Mitra              | Area               | Tools               | Deskripsi                                                                                                         |
+| Project                                                                                                                    | Dataset Source              | Area               | Tools               | Description                                                                                                         |
 | -------------------------------------------------------------------------------------------------------------------------- | ------------------ | ------------------ | ------------------- | ----------------------------------------------------------------------------------------------------------------- |
 |[🛍️ **Business Intelligence Analysis of Brazilian E-Commerce Using SQL**](https://github.com/usriaturrohma/Business-Intelligence-Analysis-of-Brazilian-E-Commerce-Using-SQL)                                               | Olist Public Dataset (Kaggle) – personal project | SQL & Data Modeling, Business Intelligence, E-commerce Analytics     | PostgreSQL, pgAdmin, Excel (visualization) | Designed database schema and ERD, imported 8 tables (customers, orders, items, payments, reviews, products, sellers, geolocation), and wrote analytical SQL queries focusing on Customer Distribution & Retention (São Paulo dominance, ~97% one-time buyers, top 10 spenders concentration), Seller Performance (top 2 sellers >$200K, concentration in São Paulo, near-perfect ratings with high order volume), and Product Category Insights (beleza_saude leading sales, some categories with high demand but low ratings ≤2). Results were synthesized into recommendations: loyalty & re-engagement programs, strengthening mid-tier sellers, and quality assurance for problematic categories.|
 <!--| [🛍 Maven Fuzzy Factory](https://github.com/faizns/Udemy-Advanced-MySQL-Data-Analysis)                                     | Udemy Course       | BI & Web Analytics | MySQL               | Menganalisis performa e-commerce: lalu lintas pengguna, produk populer, hingga retensi pelanggan.                 |
@@ -49,7 +49,7 @@ Hello! Welcome to my project portfolio documentation in the field of **Data Scie
 
 ## 📂 Dashboard
 
-| Project                                                                                                                    | Mitra              | Area               | Tools               | Deskripsi                                                                                                         |
+| Project                                                                                                                    | Dataset Source              | Area               | Tools               | Description                                                                                                         |
 | -------------------------------------------------------------------------------------------------------------------------- | ------------------ | ------------------ | ------------------- | ----------------------------------------------------------------------------------------------------------------- |
 | [📊 **Education Analytics Dashboard**](https://github.com/usriaturrohma/Education-Analytics-Dashboard)                                          | Public dataset (student performance) – personal project  |Education Analytics, Business Intelligence, Data Visualization              | Power BI, Excel/CSV, DAX       | Built an interactive dashboard to analyze student performance based on demographic, academic, and socioeconomic factors. Key insights include: gender distribution (M: 518 vs F: 482), impact of test preparation (+5–10 points improvement), parental education distribution (dominated by “some college” and “associate degree”), and socioeconomic influence (standard lunch scores ~70 vs free/reduced ~58–64). Identified 23 perfect scores, 19.4% top performers, and an overall average score of 67.77. Demonstrates how visualization can uncover performance gaps and support data-driven educational decisions.                         |
 <!--| [🚕 Green Taxi Monthly Report](https://lookerstudio.google.com/reporting/3ae0a20d-07d7-4395-b373-2780d61d3c8e)                                 | IYKRA                | Looker Studio | Dashboard performa bulanan transportasi taksi, menganalisis waktu tersibuk dan zona dengan permintaan tertinggi. |
